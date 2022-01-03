@@ -10,7 +10,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 
 
-namespace SQLShell2
+namespace SQLShell
 {
 	/// <summary>
 	/// Interaction logic for MainWindow.xaml
