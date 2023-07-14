@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FC073465-E5C7-4A53-B8B6-A2E938DB59E2}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SQLShell2</RootNamespace>
-    <AssemblyName>SQLShell2</AssemblyName>
+    <RootNamespace>SQLShell</RootNamespace>
+    <AssemblyName>SQLShell</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -53,6 +53,7 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />

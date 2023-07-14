@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace SQLShell2
+namespace SQLShell
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
